@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1482346738 source:c:\workspace\c++\cb\svm\svm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<locale.h>
+	"svm.h"
+
+1482346738 c:\workspace\c++\cb\svm\svm.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480992296 source:c:\workspace\c++\cb\unishare\main.cpp
+	<iostream>
+	<memory>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483092513 source:c:\workspace\c++\cb\stdfunc\main.cpp
+	<iostream>
+	<functional>
+

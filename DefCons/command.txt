@@ -1,0 +1,1 @@
+{"status":   "success", "data": {"item_code": [["i0001", 6]], "operation": ["create sales order"], "type": "action", "bp_code_customer": [["c0001", 8]]}} 

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1539587290 source:c:\workspace\c++\cb\voice\main.cpp
+	<iostream>
+
+1539597184 source:c:\workspace\c++\cb\voice\lambda.cpp
+	<iostream>
+
+1539737644 source:c:\workspace\c++\cb\voice\std-async.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<numeric>
+	<future>
+	<cassert>
+
+1539769329 source:c:\workspace\c++\cb\voice\move.cpp
+	<iostream>
+	<type_traits>
+
+1539849333 source:c:\workspace\c++\cb\voice\ptr.cpp
+	<iostream>
+	<memory>
+	<utility>
+
+1539849758 source:c:\workspace\c++\cb\voice\template_result_of.cpp
+	<type_traits>
+	<iostream>
+
+1540444651 source:c:\workspace\c++\cb\voice\overload.cpp
+	<iostream>
+
+1540444686 source:c:\workspace\c++\cb\voice\template_int.cpp
+	<iostream>
+
+1540790705 source:c:\workspace\c++\cb\voice\template_partial.cpp
+	<iostream>
+	<memory>
+
+1541465230 source:c:\workspace\c++\cb\voice\template_template_augs.cpp
+	<iostream>
+
+1541671255 source:c:\workspace\c++\cb\voice\template_param_pack.cpp
+	<iostream>
+	<typeinfo>
+	<tuple>
+

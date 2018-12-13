@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482475369 source:c:\workspace\c++\cb\doublesharp\main.cpp
+	<iostream>
+	<stdlib.h>
+

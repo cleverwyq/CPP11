@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="voice" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/voice" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11 -fno-elide-constructors" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/voice" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11 -fno-elide-constructors" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="alias.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="func_deriv.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="function.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="lambda.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="move.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="noexcept.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="overload.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="ptr.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="ref.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="std-async.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="std-ref.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_call_template_func.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_def_aug.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_int.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_param.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_param_pack.cpp" />
+		<Unit filename="template_partial.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_recur.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_result_of.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="template_template_augs.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

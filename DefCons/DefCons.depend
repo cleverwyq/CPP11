@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479984574 source:c:\workspace\c++\cb\defcons\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
