@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482923298 source:c:\workspace\c++\cb\ptrtomem\main.cpp
+	<iostream>
+	<string>
+

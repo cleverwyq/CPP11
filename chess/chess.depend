@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550048352 source:c:\workspace\c++\cb\chess\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+

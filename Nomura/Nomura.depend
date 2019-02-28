@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1550726148 source:c:\workspace\c++\cb\nomura\oo.cpp
+	<iostream>
+
+1550741839 source:c:\workspace\c++\cb\nomura\move.cpp
+	<iostream>
+	<type_traits>
+
+1551145142 source:c:\workspace\c++\cb\nomura\smart.cpp
+	<memory>
+	<iostream>
+
+1551253191 source:c:\workspace\c++\cb\nomura\vtbl.cpp
+	<iostream>
+
