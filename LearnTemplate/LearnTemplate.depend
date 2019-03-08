@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551449936 source:c:\workspace\c++\cb\learntemplate\operator.cpp
+	<iostream>
+	<type_traits>
+
+1551450664 source:c:\workspace\c++\cb\learntemplate\self write\my_int_const.cpp
+	<iostream>
+
+1551779634 source:c:\workspace\c++\cb\learntemplate\vector.cpp
+	<vector>
+	<iostream>
+	<string>
+	<typeinfo>
+
+1551883074 source:c:\workspace\c++\cb\learntemplate\list.cpp
+	<iostream>
+	<list>
+	<string>
+
+1551799467 source:c:\workspace\c++\cb\learntemplate\cons.cpp
+	<iostream>
+	<list>
+

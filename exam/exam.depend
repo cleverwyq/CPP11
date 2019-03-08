@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1551358213 source:c:\workspace\c++\cb\exam\hello.cpp
+	"hello.h"
+	<iostream>
+
+1551358213 c:\workspace\c++\cb\exam\hello.h
+
+1551377933 source:c:\workspace\c++\cb\exam\main.cpp
+	"hello.h"
+	"tools.h"
+	"tree.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1551358213 c:\workspace\c++\cb\exam\tools.h
+	"Stdafx.h"
+
+1551359866 c:\workspace\c++\cb\exam\stdafx.h
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<iostream>
+
+1551376248 c:\workspace\c++\cb\exam\tree.h
+	"Stdafx.h"
+
+1551377837 source:c:\workspace\c++\cb\exam\tree.cpp
+	"tree.h"
+
+1551361726 source:c:\workspace\c++\cb\exam\tools.cpp
+	"tools.h"
+

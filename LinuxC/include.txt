@@ -1,0 +1,3 @@
+include foo.mk
+
+foo.mk must be valid make file.

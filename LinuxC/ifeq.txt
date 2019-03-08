@@ -1,0 +1,14 @@
+ifeq
+endif
+
+target:...
+
+in this caes, the clause in ifeq/endif looks only can be var assign operation.
+even echo or ls wont be passed
+
+----------------
+target:
+ifeq
+endif
+
+in this case, the clause must be valid linux command,   wd+=ls is invalid, because no such command.

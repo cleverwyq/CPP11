@@ -1,0 +1,13 @@
+Static library *.a ->rv command
+ar rv libmath.a  add.o mul.o  ->archive several .o into one .a
+gcc -o main.o main.cc -L. -lmath 
+...
+
+since it's static , the main.o can be executed independently.
+
+
+Dynamic libary *.so
+gcc -shared -fPIC -o libmath.so add.o mul.o
+gcc -o main.o main.cc -L. -lmath
+
+but since it's dynamic, must specify LD_LIBRARY_PATH to run .

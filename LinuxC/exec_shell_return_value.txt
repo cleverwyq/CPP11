@@ -1,0 +1,13 @@
+return_value=$(shell sh -c './release.sh')   =>suppose .sh is a valid sh file
+the return_value will be all the content input to the console.
+
+special case in .sh
+
+echo xxx
+echo yyy
+cat abc    => abc is not exists
+ls
+
+then the return_value will be 'xxx yyy' ?
+if   cat abc 2>/dev/null ?   'xxx yyy' + result of 'ls'
+if  abc file exists ?   'xxx yyy' + content of abc + 'ls' result
