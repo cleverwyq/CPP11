@@ -21,3 +21,34 @@
 	<iostream>
 	<list>
 
+1553185618 source:c:\workspace\c++\cb\learntemplate\myset.cpp
+	<iostream>
+	<set>
+	<typeinfo>
+
+1553091002 source:c:\workspace\c++\cb\learntemplate\tree.cc
+	<bits/stl_tree.h>
+
+1553420354 source:c:\workspace\c++\cb\learntemplate\unorderset.cpp
+	<unordered_set>
+	<iostream>
+	<typeinfo>
+
+1553437510 source:c:\workspace\c++\cb\learntemplate\pointer_init.cpp
+	<iostream>
+	<utility>
+
+1553526634 source:c:\workspace\c++\cb\learntemplate\unorderedmap.cpp
+	<iostream>
+	<unordered_map>
+
+1553966942 source:c:\workspace\c++\cb\learntemplate\myforwardlist.cpp
+	<forward_list>
+	<iostream>
+	<string>
+
+1554136766 source:c:\workspace\c++\cb\learntemplate\uniqueptr.cpp
+	<iostream>
+	<utility>
+	<memory>
+

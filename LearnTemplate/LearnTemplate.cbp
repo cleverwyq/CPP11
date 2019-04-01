@@ -31,32 +31,56 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-std=c++11 -fno-elide-constructors" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="alignof.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="conditional.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="cons.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="list.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="myforwardlist.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="myset.cpp">
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="operator.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="pointer_init.cpp">
 			<Option target="Release" />
 		</Unit>
 		<Unit filename="self write/my_int_const.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="self write/my_is_function.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="self write/my_is_void.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="self write/my_template_func_of_template_class.cpp" />
+		<Unit filename="self write/my_template_func_of_template_class.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="tree.cc">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="unorderedmap.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="unorderset.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="vector.cpp">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<code_completion />

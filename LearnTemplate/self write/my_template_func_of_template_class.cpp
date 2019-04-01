@@ -58,7 +58,7 @@ public:
 };
 
 enum aaa {
-    x1 = 3,
+    x1,
     x2,
     x3 = 10,
     x4,
