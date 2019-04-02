@@ -11,3 +11,6 @@ ls
 then the return_value will be 'xxx yyy' ?
 if   cat abc 2>/dev/null ?   'xxx yyy' + result of 'ls'
 if  abc file exists ?   'xxx yyy' + content of abc + 'ls' result
+
+
+-rm dir  # ignore error and continue execution
