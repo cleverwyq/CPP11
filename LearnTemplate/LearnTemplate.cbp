@@ -47,7 +47,7 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="myforwardlist.cpp">
-			<Option target="Debug" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="myset.cpp">
 			<Option target="&lt;{~None~}&gt;" />
@@ -71,6 +71,9 @@
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="tree.cc">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="uniqueptr.cpp">
 			<Option target="Debug" />
 		</Unit>
 		<Unit filename="unorderedmap.cpp">

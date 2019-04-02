@@ -47,8 +47,12 @@
 	<iostream>
 	<string>
 
-1554136766 source:c:\workspace\c++\cb\learntemplate\uniqueptr.cpp
+1554137217 source:c:\workspace\c++\cb\learntemplate\uniqueptr.cpp
 	<iostream>
 	<utility>
 	<memory>
+
+1554217484 source:c:\workspace\c++\cb\learntemplate\weakptr.cpp
+	<memory>
+	<iostream>
 
