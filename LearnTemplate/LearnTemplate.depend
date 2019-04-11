@@ -56,3 +56,69 @@
 	<memory>
 	<iostream>
 
+1554482256 source:c:\workspace\c++\cb\learntemplate\mytuple.cpp
+	<tuple>
+	<iostream>
+	<typeinfo>
+
+1554387102 source:c:\workspace\c++\cb\learntemplate\my_print_125.cpp
+	<iostream>
+	<tuple>
+
+1554607461 source:c:\workspace\c++\cb\learntemplate\stdlock.cpp
+	<mutex>
+	<thread>
+	<iostream>
+	<vector>
+	<functional>
+	<chrono>
+	<string>
+
+1554608448 source:c:\workspace\c++\cb\learntemplate\uniquelock.cpp
+	<mutex>
+	<thread>
+	<chrono>
+	<iostream>
+
+1554732811 source:c:\workspace\c++\cb\learntemplate\thread\stdlock.cpp
+	<mutex>
+	<thread>
+	<iostream>
+	<vector>
+	<functional>
+	<chrono>
+	<string>
+
+1554736785 source:c:\workspace\c++\cb\learntemplate\thread\uniquelock.cpp
+	<mutex>
+	<thread>
+	<chrono>
+	<iostream>
+
+1554738037 source:c:\workspace\c++\cb\learntemplate\thread\condition_variable.cpp
+	<iostream>
+	<thread>
+	<condition_variable>
+	<chrono>
+	<mutex>
+
+1554819683 source:c:\workspace\c++\cb\learntemplate\thread\packagetask.cpp
+	<iostream>
+	<thread>
+	<future>
+	<cmath>
+	<functional>
+
+1554993922 source:c:\workspace\c++\cb\learntemplate\thread\stdasync.cpp
+	<iostream>
+	<future>
+	<thread>
+
+1554823554 source:c:\workspace\c++\cb\learntemplate\stream\mystream.cpp
+	<sstream>
+	<iostream>
+
+1554996763 source:c:\workspace\c++\cb\learntemplate\functional\get_result.cpp
+	<functional>
+	<iostream>
+

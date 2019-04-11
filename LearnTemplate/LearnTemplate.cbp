@@ -15,6 +15,9 @@
 					<Add option="-std=c++11 -fno-elide-constructors" />
 					<Add option="-g" />
 				</Compiler>
+				<Linker>
+					<Add option="-lpthread" />
+				</Linker>
 			</Target>
 			<Target title="Release">
 				<Option output="bin/Release/LearnTemplate" prefix_auto="1" extension_auto="1" />
@@ -43,7 +46,13 @@
 		<Unit filename="cons.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="hello_thread_construct.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="list.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="my_print_125.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="myforwardlist.cpp">
@@ -51,6 +60,9 @@
 		</Unit>
 		<Unit filename="myset.cpp">
 			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="mytuple.cpp">
+			<Option target="Release" />
 		</Unit>
 		<Unit filename="operator.cpp">
 			<Option target="&lt;{~None~}&gt;" />
@@ -70,11 +82,41 @@
 		<Unit filename="self write/my_template_func_of_template_class.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="stdasync.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="stream/mystream.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="thread/condition_variable.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="thread/packagetask.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="thread/stdasync.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="thread/stdlock.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="thread/trylock.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="thread/trylockfor.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="thread/trylockuntil.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="thread/uniquelock.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="tree.cc">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="uniqueptr.cpp">
-			<Option target="Debug" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="unorderedmap.cpp">
 			<Option target="&lt;{~None~}&gt;" />
@@ -84,6 +126,9 @@
 		</Unit>
 		<Unit filename="vector.cpp">
 			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="weakptr.cpp">
+			<Option target="Release" />
 		</Unit>
 		<Extensions>
 			<code_completion />
